@@ -1,0 +1,13 @@
+# dataset (large, download separately)
+data/
+*.mat
+*.7z
+
+# outputs
+*.png
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.idea/
