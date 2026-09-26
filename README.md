@@ -40,9 +40,9 @@ This project does not invent a new algorithm; it is a practical application of t
 
 ## How to run
 
-​```bash
+​```
 pip install -r requirements.txt
-# place the .mat files in a folder named data/
+#place the .mat files in a folder named data/
 python ssvep_cca.py
 python channel_analysis.py
 ​```
